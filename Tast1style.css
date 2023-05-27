@@ -103,12 +103,10 @@ header img{
     cursor: grabbing;
 }
 footer{
-    /* background-color: #c1e921; */
     background-color: black;
 }
 .Main {
     text-align: center;
-    /* background-color: rgb(220, 255, 253); */
     margin-top: 100px;
     margin-bottom: 0px;
     background: url(bg2.jpg) center/cover;
